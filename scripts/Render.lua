@@ -23,7 +23,7 @@ function Render.Full()
     -- Sorted by type, ascending
 
     -- First, render toggle button text
-    gui.drawText(790, 635, "Condensed", nil, nil, 24, "Helvetica", "bold", "center")
+    gui.drawText(790, 635, "Toggle", nil, nil, 24, "Helvetica", "bold", "center")
     gui.drawText(790, 660, "View", nil, nil, 24, "Helvetica", "bold", "center")
 
     x = 22
@@ -54,7 +54,7 @@ function Render.Full()
                     y = 25
                     x = 465
                 end
-            end      
+            end
         end
     end
     for i = 20, 23 do
@@ -71,7 +71,7 @@ function Render.Full()
                     y = 25
                     x = 465
                 end
-            end      
+            end
         end
     end
 end
@@ -82,7 +82,7 @@ function Render.Condensed()
     -- Each Magic, Equip, Trap, and Ritual along with its name and count
 
     -- First, render toggle button text
-    gui.drawText(790, 635, "Full", nil, nil, 24, "Helvetica", "bold", "center")
+    gui.drawText(790, 635, "Toggle", nil, nil, 24, "Helvetica", "bold", "center")
     gui.drawText(790, 660, "View", nil, nil, 24, "Helvetica", "bold", "center")
 
     x = 22
@@ -123,7 +123,7 @@ function Render.Condensed()
                     y = 25
                     x = 465
                 end
-            end      
+            end
         end
     end
 end

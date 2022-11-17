@@ -6,4 +6,4 @@ REQUIREMENTS
 Bizhawk v2.8 or later. Currently only tested with the (U) version of YGO FM.
 
 INSTALLATION
-First, download the entire packaged and keep all the files together. Open Bizhawk and load YGO FM. Once it is running, open the **Tools** menu and select **Lua Console** from the menu. This will open the Lua Console window. On the Lua Console, open the **Script** menu and select **Open Script...** (or click the open folder icon). Navigate to where you downloaded the tracker, and select the file **FM-Tracker.lua**. This should open up the tracker. To toggle between Full and Condensed view, click the toggle button.
+First, download the entire package and keep all the files together. Open Bizhawk and load YGO FM. Once it is running, open the **Tools** menu and select **Lua Console** from the menu. This will open the Lua Console window. On the Lua Console, open the **Script** menu and select **Open Script...** (or click the open folder icon). Navigate to where you downloaded the tracker, and select the file **FM-Tracker.lua**. This should open up the tracker. To toggle between Full and Condensed view, click the toggle button.
